@@ -17,10 +17,10 @@ const Index = () => {
       left={0}
       width="100%"
       height="100%"
-      bgImage={`linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
-                linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(255, 255, 255, 0.1) 1px, transparent 1px)`}
+      bgImage={`linear-gradient(rgba(255, 255, 255, 0.2) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 255, 255, 0.2) 1px, transparent 1px),
+                linear-gradient(rgba(255, 255, 255, 0.3) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 255, 255, 0.3) 1px, transparent 1px)`}
       bgSize="100px 100px, 100px 100px, 20px 20px, 20px 20px"
       bgPosition="0 0, 0 0, 0 0, 0 0"
       animation={`${animateGrid} 20s linear infinite`}
